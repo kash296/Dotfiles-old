@@ -24,6 +24,7 @@ Screenshots:
 ![alt text](screenshots/2020-05-18-162525_1920x1080_scrot.png "Networks Menu using Rofi")
                         Networkmenu using Rofi
                         
+ Thanks to Aditya Shakya @adi1090x for his polybar themes. His work inspired my rice!                       
  Credit to vahnrr for the original work! Here's his Gitlab repo containing the original work - https://gitlab.com/vahnrr/rofi-menus
  
  
