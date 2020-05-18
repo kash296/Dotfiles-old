@@ -1,0 +1,10 @@
+configuration {
+  show-icons:         true;
+  icon-theme:         "Ultimate-Plata-Suru-Plus-Aspromaurous";
+  cycle:              true;
+  hide-scrollbar:     true;
+  disable-history:    false;
+  modi:               "drun";
+  display-drun:       "apps";
+  columns: 1;
+}

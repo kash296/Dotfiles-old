@@ -1,0 +1,19 @@
+#! /bin/sh
+
+sxhkd &
+
+bspc monitor -d I II III IV V
+
+bspc config border_width         0
+bspc config window_gap           10
+
+bspc config split_ratio          0.52
+bspc config borderless_monocle   true
+bspc config gapless_monocle      true
+
+feh --bg-fill ~/Pictures/ford_mustang_gtr_ford_car_143660_1920x1080.jpg
+
+pkill picom; picom --experimental-backends &
+pkill polybar; polybar main &
+
+xbacklight -set 15
