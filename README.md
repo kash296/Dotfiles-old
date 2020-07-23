@@ -1,8 +1,8 @@
 # Dotfiles
 
-These are my dotfiles. Heh. That's obvious from the repo name.
+These were my dotfiles on Void Linux. Currently on a simple Gnome setup on Ubuntu, for academic purposes.
 
-I run a fairly minimal setup, as follows:
+I used to run a fairly minimal setup, as follows:
 
 WM - BSPWM
 
@@ -14,7 +14,6 @@ Menu - Rofi
 
 Terminal - Kitty
 
-Btw I mainly use void
 
 Screenshots:
 ![alt text](screenshots/2020-05-18-162418_1920x1080_scrot.png "Desktop")
